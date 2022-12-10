@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web development on Portfolio</title>
+    <link>/en/categories/web-development/</link>
+    <description>Recent content in Web development on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 29 May 2022 19:12:00 +0200</lastBuildDate><atom:link href="/en/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>e-portfolio website</title>
+      <link>/en/projets/e-portfolio/</link>
+      <pubDate>Sun, 29 May 2022 19:12:00 +0200</pubDate>
+      
+      <guid>/en/projets/e-portfolio/</guid>
+      <description>Project in which you are currently interacting.
+Discovering HUGO Discovering a CMS During this project, we were able to discover what a CMS (Content Management System) is and its importance. It allows to design, manage and update a website in a very simple way. Therefore, as said earlier in the article, this e-portfolio website was created by a CMS which is none other than HUGO. Why choose this CMS? For the simple reason of the type of content we are going to propose.</description>
+    </item>
+    
+    <item>
+      <title>Dragon Expo</title>
+      <link>/en/projets/dragon_expo/</link>
+      <pubDate>Sun, 16 Jan 2022 19:00:00 +0200</pubDate>
+      
+      <guid>/en/projets/dragon_expo/</guid>
+      <description>This is the first concrete project I have done in IT. In this project, the creation of an event company was required. In order to improve its communication, the creation of a website and its design was necessary.
+I/ Creation of the company The first step of this project was to brainstorm to find out more about the type of event we were proposing. Once we found our theme, in this case an exposition about dragons, we made different personas to determine the potential targets of our company.</description>
+    </item>
+    
+  </channel>
+</rss>
